@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>ball.png</Source>
+      <Name>ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\ball.xnb</Output>
+      <Time>2016-10-28T18:55:04.5371094+03:00</Time>
+    </Item>
+    <Item>
+      <Source>pixel.png</Source>
+      <Name>pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\pixel.xnb</Output>
+      <Time>2016-10-28T20:21:01.1669922+03:00</Time>
+    </Item>
+    <Item>
+      <Source>StartGame.png</Source>
+      <Name>StartGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\StartGame.xnb</Output>
+      <Time>2016-11-14T14:56:19.2354297+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cursor.png</Source>
+      <Name>Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\Cursor.xnb</Output>
+      <Time>2016-11-14T14:02:20.0684375+03:00</Time>
+    </Item>
+    <Item>
+      <Source>StartNewGame.png</Source>
+      <Name>StartNewGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\StartNewGame.xnb</Output>
+      <Time>2016-11-18T13:00:51.821289+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont.spritefont</Source>
+      <Name>SpriteFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\SpriteFont.xnb</Output>
+      <Time>2016-11-10T00:07:42.3535156+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOver.wav</Source>
+      <Name>GameOver</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\GameOver.xnb</Output>
+      <Time>2016-11-19T16:41:32.8076171+03:00</Time>
+    </Item>
+    <Item>
+      <Source>OtherSounds\Surprise\0.wav</Source>
+      <Name>OtherSounds\Surprise\0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\OtherSounds\Surprise\0.xnb</Output>
+      <Time>2016-11-18T16:24:27.7255859+03:00</Time>
+    </Item>
+    <Item>
+      <Source>OtherSounds\Surprise\1.wav</Source>
+      <Name>OtherSounds\Surprise\1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\OtherSounds\Surprise\1.xnb</Output>
+      <Time>2016-11-18T16:01:45.8515625+03:00</Time>
+    </Item>
+    <Item>
+      <Source>OtherSounds\Surprise\2.wav</Source>
+      <Name>OtherSounds\Surprise\2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\OtherSounds\Surprise\2.xnb</Output>
+      <Time>2016-11-18T15:55:47.3818359+03:00</Time>
+    </Item>
+    <Item>
+      <Source>OtherSounds\Surprise\3.wav</Source>
+      <Name>OtherSounds\Surprise\3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\OtherSounds\Surprise\3.xnb</Output>
+      <Time>2016-11-18T16:00:38.8066406+03:00</Time>
+    </Item>
+    <Item>
+      <Source>OtherSounds\Slap\0.wav</Source>
+      <Name>OtherSounds\Slap\0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\OtherSounds\Slap\0.xnb</Output>
+      <Time>2016-11-18T15:44:00.4101562+03:00</Time>
+    </Item>
+    <Item>
+      <Source>OtherSounds\Slap\1.wav</Source>
+      <Name>OtherSounds\Slap\1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\OtherSounds\Slap\1.xnb</Output>
+      <Time>2016-11-18T19:55:48.4980468+03:00</Time>
+    </Item>
+    <Item>
+      <Source>OtherSounds\Slap\2.wav</Source>
+      <Name>OtherSounds\Slap\2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\OtherSounds\Slap\2.xnb</Output>
+      <Time>2016-11-18T19:58:08.9111328+03:00</Time>
+    </Item>
+    <Item>
+      <Source>OtherSounds\Slap\3.wav</Source>
+      <Name>OtherSounds\Slap\3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\OtherSounds\Slap\3.xnb</Output>
+      <Time>2016-11-18T19:59:38.4277343+03:00</Time>
+    </Item>
+    <Item>
+      <Source>OtherSounds\Slap\4.wav</Source>
+      <Name>OtherSounds\Slap\4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\OtherSounds\Slap\4.xnb</Output>
+      <Time>2016-11-18T20:01:04.4628906+03:00</Time>
+    </Item>
+    <Item>
+      <Source>OtherSounds\Fade\0.wav</Source>
+      <Name>OtherSounds\Fade\0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\OtherSounds\Fade\0.xnb</Output>
+      <Time>2016-11-18T19:56:50.0673828+03:00</Time>
+    </Item>
+    <Item>
+      <Source>OtherSounds\Fade\1.wav</Source>
+      <Name>OtherSounds\Fade\1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\OtherSounds\Fade\1.xnb</Output>
+      <Time>2016-11-18T19:59:27.3740234+03:00</Time>
+    </Item>
+    <Item>
+      <Source>OtherSounds\Fade\2.wav</Source>
+      <Name>OtherSounds\Fade\2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\OtherSounds\Fade\2.xnb</Output>
+      <Time>2016-11-19T16:45:25.9912109+03:00</Time>
+    </Item>
+    <Item>
+      <Source>OtherSounds\Fade\3.wav</Source>
+      <Name>OtherSounds\Fade\3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\OtherSounds\Fade\3.xnb</Output>
+      <Time>2016-11-18T20:00:31.4990234+03:00</Time>
+    </Item>
+    <Item>
+      <Source>OtherSounds\Fade\4.wav</Source>
+      <Name>OtherSounds\Fade\4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\OtherSounds\Fade\4.xnb</Output>
+      <Time>2016-11-18T20:02:55.84375+03:00</Time>
+    </Item>
+    <Item>
+      <Source>OtherSounds\Fade\5.wav</Source>
+      <Name>OtherSounds\Fade\5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\OtherSounds\Fade\5.xnb</Output>
+      <Time>2016-11-19T16:45:54.5947265+03:00</Time>
+    </Item>
+    <Item>
+      <Source>StartOver.wav</Source>
+      <Name>StartOver</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\StartOver.xnb</Output>
+      <Time>2016-11-19T17:00:35.3046875+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Error.wav</Source>
+      <Name>Error</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\Error.xnb</Output>
+      <Time>2017-01-04T12:54:17.430664+03:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundSounds\0.mp3</Source>
+      <Name>BackgroundSounds\0</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\BackgroundSounds\0.xnb</Output>
+      <Extra>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\BackgroundSounds\0.wma</Extra>
+      <Time>2016-11-18T16:17:18.2568359+03:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundSounds\1.mp3</Source>
+      <Name>BackgroundSounds\1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\BackgroundSounds\1.xnb</Output>
+      <Extra>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\BackgroundSounds\1.wma</Extra>
+      <Time>2016-11-18T16:16:28.2626953+03:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundSounds\2.mp3</Source>
+      <Name>BackgroundSounds\2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\BackgroundSounds\2.xnb</Output>
+      <Extra>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\BackgroundSounds\2.wma</Extra>
+      <Time>2016-11-18T16:16:20.5439453+03:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundSounds\3.mp3</Source>
+      <Name>BackgroundSounds\3</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\BackgroundSounds\3.xnb</Output>
+      <Extra>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\BackgroundSounds\3.wma</Extra>
+      <Time>2016-11-18T16:16:13.4609375+03:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundSounds\4.mp3</Source>
+      <Name>BackgroundSounds\4</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\BackgroundSounds\4.xnb</Output>
+      <Extra>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\BackgroundSounds\4.wma</Extra>
+      <Time>2016-11-18T16:16:37.8310546+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRisContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRisContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Kirill\Documents\Visual Studio 2010\Projects\BallRis\BallRis\BallRis\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-10-27T22:00:15.9902344+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
